@@ -1,0 +1,2 @@
+This project demonstrates a hand following robot that uses computer vision to track hand movement.
+The system integrates real-time image processing with embedded motor control to achieve human–robot interaction.
